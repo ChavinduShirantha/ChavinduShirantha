@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/@chavindu62" target="blank"><img src="https://img.shields.io/twitter/follow/chavindu62?logo=twitter&style=for-the-badge" alt="chavindu62" /></a> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=48F3F7&center=true&width=1000&lines=Connect+with+me%3A" alt="Typing SVG" /></a></h3>
 <p align="center">
 <a href="https://twitter.com/chavindu62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chavindu62" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chavindu-shirantha-b5b857264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavindu shirantha" height="30" width="40" /></a>
@@ -25,6 +25,11 @@
 </p>
 
 <br><br>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F539E3&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p>  
+
 <p align="center">
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chavindushirantha&theme=tokyonight" />
@@ -38,7 +43,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChavinduShirantha&theme=tokyonight&utcOffset=8" />
   
  <p>
-   
+<br>   
 
 <p align="center">
   
@@ -69,9 +74,12 @@
   
 <p>
   
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F539E3&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
 <br>
 
 <p align="center"><img  src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif"  width="400" height="300"></p>
-
-
+<br>
+<br>
 <p align="center"><img align="center" alt="gif" src="https://github.com/ChavinduShirantha/ChavinduShirantha/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b653.gif" width="500" height="400" /></p>
