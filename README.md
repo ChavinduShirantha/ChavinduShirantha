@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://twitter.com/@chavindu62" target="blank"><img src="https://img.shields.io/twitter/follow/chavindu62?logo=twitter&style=for-the-badge" alt="chavindu62" /></a> </p>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=48F3F7&center=true&width=1000&lines=Connect+with+me%3A" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=48F3F7&center=true&width=700&lines=Connect+with+me%3A" alt="Typing SVG" /></a></h3>
 <p align="center">
 <a href="https://twitter.com/chavindu62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chavindu62" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chavindu-shirantha-b5b857264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavindu shirantha" height="30" width="40" /></a>
