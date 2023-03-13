@@ -71,8 +71,7 @@
   
 <br>
 
-<img  src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif"  width="400" height="300"> &nbsp;&nbsp;
-&nbsp;&nbsp; <img src = "https://static.wixstatic.com/media/4b1cef_54d9baf7b7da4f10aa2ae732d9b99d7a~mv2.gif" width="400" height="300"/>
+<p align="center"><img  src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif"  width="400" height="300"></p>
 
 
 <p align="center"><img align="center" alt="gif" src="https://github.com/ChavinduShirantha/ChavinduShirantha/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b653.gif" width="500" height="400" /></p>
