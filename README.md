@@ -43,7 +43,7 @@
 
 <p align="center">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chavindushirantha&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChavinduShirantha&theme=tokyonight" />
   
  <p>
    
