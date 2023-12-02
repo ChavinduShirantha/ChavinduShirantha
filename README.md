@@ -93,6 +93,21 @@
 
 <p align="center"><img align="center" alt="gif" src="https://github.com/ChavinduShirantha/ChavinduShirantha/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b653.gif" width="500" height="400" /></p>
 
+<div align="center">
+
+![repo license](https://img.shields.io/github/license/ChavinduShirantha/ChavinduShirantha?&labelColor=black&color=3867d6&style=for-the-badge)
+![repo size](https://img.shields.io/github/repo-size/ChavinduShirantha/ChavinduShirantha?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/ChavinduShirantha/ChavinduShirantha?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/ChavinduShirantha/ChavinduShirantha?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/ChavinduShirantha/ChavinduShirantha?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+</div>
+
+<div align="center">
+
+#### @2023 [Chavindu Shirantha](https://github.com/ChavinduShirantha), Inc.All rights reserved
+
+</div>
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572">
 </p>
