@@ -30,8 +30,22 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=hibernate,html,idea,java,js,bootstrap,powershell,mysql,nodejs,postman,stackoverflow" />
-   <img src="https://skillicons.dev/icons?i=css,figma,git,github,linkedin,vscode,ps,spring,jquery,maven,powershell" />
+       <img src="https://skillicons.dev/icons?i=html,css,js,jquery,ts,postman,bootstrap,regex,idea,vscode,spring,maven" />
+    </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
+      </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=hibernate,java,idea,powershell,mysql,figma" />
+      </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=git,github,gitlab,linkedin,vscode,ps,linux,gmail,twitter,stackoverflow" />
   </a>
 </p>
 
